@@ -35,7 +35,7 @@ rstest_reuse = {version = "0.3", path = "../rstest_reuse"}
 rstest_test = {version = "0.8", path = "../rstest_test"}
 temp_testdir = "0.2.3"
 tokio = {version = "1.6.1", features = ["rt", "macros"]}
-unindent = "0.1.7"
+unindent = "0.2.1"
 
 [build-dependencies]
 rustc_version = "0.4.0"
